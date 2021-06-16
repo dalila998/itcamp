@@ -1,0 +1,238 @@
+body {
+    padding:0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.mojDiv{
+    margin-left:150px;
+    color: gray;
+    display: inline;
+
+}
+.mojDiv h1{
+margin-left: 100px;
+color:black;
+font-size: 40px;
+}
+.mojDiv p{
+    margin-left:100px;
+}
+
+.mojDiv h1 span {
+    font-size: 160px;
+}
+
+
+
+.mojDiv h2{
+    font-size: 20px;
+    line-height: 1.6;
+}
+.mojDiv a{
+color:black;
+}
+.dalila{
+    color: chartreuse;
+}
+  p{
+      background-color:white;
+      margin:-3px;
+      padding-top: 10px;
+      display: inline-block;
+
+  }
+.Div img{
+   
+        border:1px #050803 solid;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        float: left ;
+        margin-top: 40px;
+        margin-left: -50px;
+        
+    
+    
+ 
+
+
+  }
+.Div{
+    background-color:grey;
+    width: 280px;
+height:100px;
+border-radius: 10px; 
+padding-top: 20px;
+padding-left: 20px;
+margin: -2px;
+
+
+}
+.Div h1{
+    padding: -20px;
+   margin-top: -20px;
+    float: left;
+}
+.Div p{
+    float: left;
+    padding-right:10px ;
+    margin-top: 5px;
+    margin-right: 30px;
+    color: honeydew;
+    float: left;
+   
+}
+/* .mojDiv2 {
+    background-color: midnightblue;
+    height: 200px;
+
+} */
+/* .mojDiv2 img{
+
+width: 80px;
+height: 90px;
+
+margin-top: 50px;
+} */
+/* .mojDiv2 .slika1{
+   float: rr; 
+}
+.mojDiv li{
+display: block;
+
+
+} */
+.mojDiv a:link {
+    color: red;
+  }
+  
+
+  .mojDiv a:visited {
+    color: green;
+  }
+  
+ 
+ .mojDiv  a:hover {
+    color: hotpink;
+  }
+  
+ 
+  .mojDiv a:active {
+    color: blue;
+  }
+  .noviDiv img{
+      width: 50%;
+      vertical-align: middle;
+  }
+  .noviDiv .text1 {
+      display: inline-block;
+      width: 45%;
+      vertical-align: middle;
+  }
+  /* .noviDiv h1  {
+    
+      display: inline-block;
+      position:absolute;
+      margin-top: 180px;
+      margin-left: 50px;
+      
+      
+
+  }
+  .noviDiv span{
+      
+      display: inline-block;
+      position:absolute;
+      margin-top: 250px;
+      margin-left: 50px;
+      width: 50%;
+
+  }
+.noviDiv1 h1{
+    margin-top: 60px;
+ font-size: 30px;
+ margin-left: 80px;
+ 
+ margin-top: 180px;
+ 
+}
+.noviDiv1 p{
+    
+    font-size: 20px;
+    margin-left: 80px;
+   margin-top: 5px;
+
+} */
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  .button1 {
+    background-color: white; 
+    color:goldenrod; 
+    border: 2px solid goldenrod;
+    border-radius: 200px;
+    margin-left: 120px;
+    margin-top: 40px;
+    
+  }
+  .button1:hover{
+      background-color: goldenrod;
+      color: black;
+      border-color: black;
+  }
+  .button2{
+    background-color: white; 
+    color:goldenrod; 
+    border: 2px solid goldenrod;
+    border-radius: 200px;
+    margin-left: 120px;
+    margin-top: 40px;
+  }
+  .button2:hover{
+    background-color: goldenrod;
+    color: black;
+    border-color: black;
+}
+
+.novi .text2 {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.novi img{
+    vertical-align: middle;
+    width: 50%;
+    float: right;
+}
+.novi h1{
+    margin-top: 50px;
+    margin-left: 80px;
+  
+  
+  
+}
+.novi p{
+    margin-top: 5px;
+    margin-left: 80px;
+    
+  
+}
+.child1 a{
+float: right;
+}
+  
+  
+      
